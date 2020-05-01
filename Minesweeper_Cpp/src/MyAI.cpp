@@ -26,6 +26,7 @@ MyAI::MyAI ( int _rowDimension, int _colDimension, int _totalMines, int _agentX,
     // ======================================================================
 
     //test for gitpush
+    //test for pull
 
     // ======================================================================
     // YOUR CODE ENDS
